@@ -1,5 +1,5 @@
 # 2021/11/02: Git Basics
->>>>>>> 961e629821f29582e777fa8947b96d45ae5bd010
+
 
 - `git init`: create a git repo in current folder.
    - only need to do this once, do not nest repos
@@ -20,12 +20,11 @@
 	- `git switch main`: might be the same
 
 # Remotes
-<<<<<<< HEAD
+
 - `git remote add origin <URL>`: assigns the url, the name "origin" 
 - `git push origin main`: pushes the main branch to the origin
 - `git pull origin main`: pull the main branch from the remote down to loacl
-=======
+
 
 GitHub is an example of a remote
-	
->>>>>>> 961e629821f29582e777fa8947b96d45ae5bd010
+
